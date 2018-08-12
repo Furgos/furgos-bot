@@ -1,0 +1,20 @@
+{
+  "name": "Basic-Bot-Discord",
+  "version": "1.0.0",
+  "description": "Simple and basic Bot Discord worked with discord.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasbnt/bot-discord-basic-js.git"
+  },
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Thomas Bnt",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "discord.js": "^10.0.1",
+    "node-opus": "^0.2.4",
+    "opusscript": "0.0.1"
+  }
+}
